@@ -15,7 +15,7 @@
 ---
 
 > [!NOTE]
-> **TL;DR** — Soy el único ingeniero de infraestructura de una consultora IT. Opero un stack multi-tenant en producción (n8n, Chatwoot, WhatsApp Business API, Supabase, Redis, Docker) para clientes reales, lo monitoreo con Prometheus/Grafana, y le sumo **IA donde tiene sentido**: agentes conversacionales, caché semántico de LLMs, MCP servers y sub-agentes que revisan la infra mientras duermo.
+> **TL;DR** —  Opero un stack multi-tenant en producción (n8n, Chatwoot, WhatsApp Business API, Supabase, Redis, Docker) para clientes reales, lo monitoreo con Prometheus/Grafana, y le sumo **IA donde tiene sentido**: agentes conversacionales, caché semántico de LLMs, MCP servers y sub-agentes que revisan la infra mientras duermo.
 >
 > Abajo no hay una lista de tecnologías. Hay **cómo se armó cada cosa, qué se rompió y cómo lo resolví.** 👇
 
